@@ -1,0 +1,61 @@
+Package: far2l-plugins-colorer
+Architecture: aarch64
+Installed-Size: 14488
+Maintainer: @spvkgn
+Version: 2.6.4+git20241229
+Homepage: https://github.com/elfmz/far2l
+Depends: libxml2, far2l (= 2.6.4+git20241229)
+Description: FAR2L colorer plugin
+Filename: dists/termux/extras/binary-aarch64/far2l-plugins-colorer_2.6.4+git20241229_aarch64.deb
+Size: 1020816
+MD5Sum: 8b99451036f0335e9636d1973b0fc678
+SHA1: 52bea0e22bb57b1c504bfd243fb860c16081ac80
+SHA256: b9811abc362a988192716bd2cfde0fb40dce5041766d42d0fc76a72f9277627d
+SHA512: 07f4e1f4321c8fb18a18179e25433309179aff6131d1f89242c7d5da17bda38090486f12f7e9c2a0334cdc05360a2f54b3357765c81a9b5f1b45e305fb83eedf
+
+Package: far2l-plugins-netrocks
+Architecture: aarch64
+Installed-Size: 1636
+Maintainer: @spvkgn
+Version: 2.6.4+git20241229
+Homepage: https://github.com/elfmz/far2l
+Depends: libc++, libneon, libnfs, libssh, openssl, samba, far2l (= 2.6.4+git20241229)
+Description: FAR2L NetRocks plugin (SFTP/SCP/FTP/SMB/NFS/WebDAV)
+Filename: dists/termux/extras/binary-aarch64/far2l-plugins-netrocks_2.6.4+git20241229_aarch64.deb
+Size: 352164
+MD5Sum: 8127e1d6af70d6cdafff97aca5e32f2f
+SHA1: 077fe917a50fb4cda6c1abdaa6e2a2425549efc2
+SHA256: c7db11b514802961e1bd425193e08a51a1588904d67e4dca3ee8eca9661d3905
+SHA512: 40b1ba99a8d22c6fdae969f222630749b04353d22021cee6c29faa36e2d4fd8c1ce745272aa3a2abc2d1f2a6d662375827a8574cd0f1c2d017a0adb1efcb11d3
+
+Package: far2l-ttyxi
+Architecture: aarch64
+Installed-Size: 100
+Maintainer: @spvkgn
+Version: 2.6.4+git20241229
+Homepage: https://github.com/elfmz/far2l
+Depends: libc++, libx11, libxi, far2l (= 2.6.4+git20241229)
+Description: X11/Xi extension to provide best UX for TTY backend
+Filename: dists/termux/extras/binary-aarch64/far2l-ttyxi_2.6.4+git20241229_aarch64.deb
+Size: 25884
+MD5Sum: 890126ce04be152aad8fc8eac4890801
+SHA1: eff6b8a8356653dc88b2237ace7afd7f63268d45
+SHA256: 0d4277adf4adecd21796ba65be8f7f070d0834b4142defe44513899f44833e35
+SHA512: 1bc259371b1d3454d547efe3a81676b55b6cd56382cd75b756860d0d8b4f30ac0c5d209c8575b5e7ac8d1fef5d19f9c319f28076eaa4ac4aaef34239a2ec400b
+
+Package: far2l
+Architecture: aarch64
+Installed-Size: 8472
+Maintainer: @spvkgn
+Version: 2.6.4+git20241229
+Homepage: https://github.com/elfmz/far2l
+Depends: libarchive, libc++, libuchardet
+Suggests: chafa, exiftool, htop, timg
+Description: FAR Manager v2
+Filename: dists/termux/extras/binary-aarch64/far2l_2.6.4+git20241229_aarch64.deb
+Size: 1889352
+MD5Sum: 08de18f43232749018683a99db818533
+SHA1: 5d56a8f69ae76b2a3bea295b047e2624d3c659b7
+SHA256: eebafae63926182edf08ea331d1392936332bb9c4b133229dd71901562a1fc9d
+SHA512: 7350de9868dd1cf0f55f253487e50e6e5018f980d31e5843999e6fd6e6ed0ae7f2f6600525235d9400db6c1cecce7afbcb777c909b32f6a38b218c98c890244d
+
